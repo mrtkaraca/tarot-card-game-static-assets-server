@@ -1,4 +1,4 @@
-add assets file file assets <br/>
+add assets file
 
 env configure : <br/>
 
